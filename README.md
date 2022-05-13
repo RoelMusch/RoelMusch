@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RoelMusch
 - 👀 I’m interested in developing genetic markers for breeding programs
-- 🌱 I’m currently learning R, unix an and python
+- 🌱 I’m currently learning R, unix and and python
 - 💞️ I’m looking to collaborate on genetic marker development
 
 <!---
